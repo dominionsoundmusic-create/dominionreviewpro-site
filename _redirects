@@ -1,0 +1,30 @@
+# retired URL structures -> current service pages
+
+/5-star-reviews/*  /google-review-management/:splat  301
+/5-star-reviews/  /google-review-management/  301
+/get-more-google-reviews/*  /google-review-management/:splat  301
+/get-more-google-reviews/  /google-review-management/  301
+/reputation-management/*  /google-review-management/:splat  301
+/reputation-management/  /google-review-management/  301
+/google-business-reviews/*  /google-review-management/:splat  301
+/google-business-reviews/  /google-review-management/  301
+/review-generation-service/*  /google-review-management/:splat  301
+/review-generation-service/  /google-review-management/  301
+/customer-review-automation/*  /google-review-management/:splat  301
+/customer-review-automation/  /google-review-management/  301
+/review-request-service/*  /google-review-management/:splat  301
+/review-request-service/  /google-review-management/  301
+/increase-google-reviews/*  /google-review-management/:splat  301
+/increase-google-reviews/  /google-review-management/  301
+/business-review-management/*  /google-review-management/:splat  301
+/business-review-management/  /google-review-management/  301
+/local-business-reviews/*  /google-review-management/:splat  301
+/local-business-reviews/  /google-review-management/  301
+/local-seo-reviews/*  /google-review-management/:splat  301
+/local-seo-reviews/  /google-review-management/  301
+/review-management-software/*  /google-review-management/:splat  301
+/review-management-software/  /google-review-management/  301
+/review-monitoring-service/*  /google-review-management/:splat  301
+/review-monitoring-service/  /google-review-management/  301
+/google-review-service/*  /google-review-management/:splat  301
+/google-review-service/  /google-review-management/  301
