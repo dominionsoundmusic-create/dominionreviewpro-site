@@ -1,3 +1,27 @@
+# Sep 26 2026 - templated auto-blog posts retired; each old post points to the closest real page.
+/blog/what-to-do-about-a-bad-review-1786970799025.html  /about  301
+/blog/what-to-do-about-a-bad-review-1786970799025  /about  301
+/blog/how-many-reviews-does-a-local-business-actually-need-1785707847970.html  /  301
+/blog/how-many-reviews-does-a-local-business-actually-need-1785707847970  /  301
+/blog/review-sites-that-matter-most-for-local-business-1786452763740.html  /automated-review-requests/  301
+/blog/review-sites-that-matter-most-for-local-business-1786452763740  /automated-review-requests/  301
+/blog/turning-happy-customers-into-repeat-referrals-1786106993543.html  /  301
+/blog/turning-happy-customers-into-repeat-referrals-1786106993543  /  301
+/blog/how-online-reviews-affect-local-search-rankings-1785937934318.html  /online-reputation-management/  301
+/blog/how-online-reviews-affect-local-search-rankings-1785937934318  /online-reputation-management/  301
+/blog/how-reviews-influence-buying-decisions-1786192543506.html  /  301
+/blog/how-reviews-influence-buying-decisions-1786192543506  /  301
+/blog/why-review-count-matters-more-than-perfect-ratings-1786366410769.html  /automated-review-requests/  301
+/blog/why-review-count-matters-more-than-perfect-ratings-1786366410769  /automated-review-requests/  301
+/blog/how-online-reviews-affect-local-search-rankings-1786024255247.html  /online-reputation-management/  301
+/blog/how-online-reviews-affect-local-search-rankings-1786024255247  /online-reputation-management/  301
+/blog/responding-to-reviews-and-why-it-matters-to-google-1786279064770.html  /google-maps-ranking/  301
+/blog/responding-to-reviews-and-why-it-matters-to-google-1786279064770  /google-maps-ranking/  301
+/blog/why-review-count-matters-more-than-perfect-ratings-1785851805031.html  /automated-review-requests/  301
+/blog/why-review-count-matters-more-than-perfect-ratings-1785851805031  /automated-review-requests/  301
+/blog/*  /  301
+/blog  /  301
+
 # retired URL structures -> current service pages
 
 /5-star-reviews/*  /google-review-management/  301
